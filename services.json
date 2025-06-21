@@ -62,5 +62,20 @@
   },
   "youTubeTV": {
     "appUrl": "https://tv.youtube.com/"
+  },
+  "nebula": {
+    "appUrl": "https://nebula.tv/"
+  },
+  "ard": {
+    "appUrl": "https://www.ardmediathek.de/"
+  },
+  "zdf": {
+    "appUrl": "https://www.zdf.de/"
+  },
+  "arte": {
+    "appUrl": "https://www.arte.tv/"
+  },
+  "3sat": {
+    "appUrl": "https://www.3sat.de/"
   }
 }
