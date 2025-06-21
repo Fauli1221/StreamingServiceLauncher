@@ -29,7 +29,7 @@ jobs:
       - name: build AppImage
         run: |
           npm install
-          npm run build --linux
+          npm run build --linux -p never
           chmod +x dist/StreamingServiceLauncher_v*_linux.AppImage
         continue-on-error: true
 
