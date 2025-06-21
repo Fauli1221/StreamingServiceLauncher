@@ -6,7 +6,7 @@ if [ "$EUID" -eq 0 ]
 fi
 
 APP=StreamingServiceLauncher
-RELEASE_URL=https://api.github.com/repos/aarron-lee/$APP/releases/latest
+RELEASE_URL=https://api.github.com/repos/Fauli1221/$APP/releases/latest
 
 APPIMAGE_PATH=$HOME/Applications/$APP.AppImage
 LAUNCHER_PATH=$HOME/.local/bin/streaming-service-launcher
